@@ -1,0 +1,24 @@
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    display: inline;
+    justify-self: center;
+    margin-top: 2%;
+}
+
+th,
+td {
+    padding: 10px 20px;
+    border: 1px solid #000;
+}
+.container{
+    
+    display: grid;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+}
+button{
+    background-color: #babacc;
+    padding: 2%;
+    border: none;}
